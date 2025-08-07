@@ -1,4 +1,4 @@
-﻿# web-pemula
+﻿### web-pemula
 
-[preview](https://si325.github.io/web-pemula/)
+> fork dari repo [web-pemula](https://github.com/si325/web-pemula?tab=readme-ov-file). liat preview versi ini di sini: [preview](https://randishvold.github.io/web-pemula-fork/)
 
